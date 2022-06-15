@@ -1,4 +1,6 @@
+Extension name: ScreenMagic
 
+Description: In the 5*5 microbit LEDs pad, it lights up row by row, from the leftup-most led light to the rightbottom-most Led light, therefore it lights up 25 Leds in total. A 500 ms pause would be asserted everytime the button A is pressed. A large character "A" is shown once the program finishes. 
 > Open this page at [https://mattmak123.github.io/screenmagic/](https://mattmak123.github.io/screenmagic/)
 
 ## Use as Extension
